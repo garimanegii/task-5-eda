@@ -60,8 +60,8 @@ The notebook includes:
 ---
 
 ## 📄 Deliverables
-- **Jupyter Notebook:** `Titanic_EDA_Task5.ipynb`
-- **PDF Report:** `Titanic_EDA_Task5_Report.pdf`
+- **Jupyter Notebook:** `Titanic.ipynb`
+- **PDF Report:** `Titanic_report.pdf`
 - **Dataset:** `train.csv` 
 
 ---
